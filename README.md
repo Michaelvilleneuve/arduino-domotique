@@ -1,5 +1,4 @@
-# arduino-domotique
-Arduino code for home automation
+# Arduino code for home automation
 
 This repository is wraps all the datas used for my home automation setup.
 
